@@ -15,15 +15,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianaOliveiraFelipe&show_icons=true&locale=en&layout=compact" alt="MarianaOliveiraFelipe" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaOliveiraFelipe&show_icons=true&locale=en" alt="mariana-felipe" width="410" /></p>
 
-
 <hr>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,notion" />
   </a>
 </p>
-
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
@@ -38,6 +35,3 @@
 			<img src="https://skillicons.dev/icons?i=instagram"></a>
 		</div>
 </p>
-
-
-
